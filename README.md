@@ -2,7 +2,7 @@
 
 
 
-[![MasterHead]([https://img.freepik.com/premium-photo/devopsdevops-banner-concept-3d-render_507676-2522.jpg](https://cyfuture.cloud/frontImg/images/devops-bantop.webp))]
+[![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)]
 <h1 align="center">Hi 👋, I'm Abhishek Shelar</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://simplecoding.dev/assets/devops.gif">
